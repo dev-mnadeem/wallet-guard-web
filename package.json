@@ -63,6 +63,6 @@
   "description": "Ethereum wallet interface (send/receive ETH via an injected EIP-1193 wallet) plus the DeFiGuard marketing site and a small Express API.",
   "license": "Apache-2.0",
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   }
 }
