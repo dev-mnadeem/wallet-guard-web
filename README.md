@@ -294,3 +294,7 @@ config -q` parses cleanly; that is the extent of what has been verified.
 ## Licence
 
 Apache-2.0. See [LICENSE](LICENSE).
+
+## Author
+
+[**Muhammad Nadeem**](https://github.com/dev-mnadeem)
